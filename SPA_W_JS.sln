@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPA_W_JS", "SPA_W_JS\SPA_W_JS.csproj", "{80CF5A3E-B9AE-41E6-9251-6B237FCBFDDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CF5A3E-B9AE-41E6-9251-6B237FCBFDDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CF5A3E-B9AE-41E6-9251-6B237FCBFDDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CF5A3E-B9AE-41E6-9251-6B237FCBFDDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CF5A3E-B9AE-41E6-9251-6B237FCBFDDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {256A823E-143C-45E6-971C-4BE3BD5AE967}
+	EndGlobalSection
+EndGlobal
